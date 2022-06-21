@@ -1,5 +1,13 @@
 .oddNumber{
     background-color: rgb(255,192,203);
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
 
+.fontSize24{
+    font-size: 24px;
+}
+
+#numTwo{
+    color: #0000ff;
+    font-size: 36px;
 }
